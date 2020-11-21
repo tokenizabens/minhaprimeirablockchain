@@ -1,0 +1,20 @@
+{
+  "name": "mpb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-test": "nodemon dev-test",
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
